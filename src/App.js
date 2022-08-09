@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "./logo.png";
+import logo from "./Dic icon2.jpg";
 import "./App.css";
 import Dictionary from "./Dictionary";
 
@@ -12,7 +12,7 @@ export default function App() {
             src={logo}
             className="App-logo 
         img-fluid"
-            alt="logo"
+            alt="Dictionary logo"
           />
         </header>
         <main>
