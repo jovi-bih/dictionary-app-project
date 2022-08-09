@@ -1,11 +1,11 @@
 .Phonetic {
-  height: 20px 0;
+  margin: 20px 0;
 }
 
 .Phonetic a {
   border: 1px solid #ddd;
   text-decoration: none;
-  padding: 8px 15px;
+  padding: 10px 15px;
   border-radius: 20px;
   margin-right: 10px;
   font-weight: bold;

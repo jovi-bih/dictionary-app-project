@@ -16,7 +16,7 @@ export default function App() {
           />
         </header>
         <main>
-          <Dictionary defaultKeyword="sunset" />
+          <Dictionary defaultKeyword="woman coding" />
         </main>
         <footer className="App-footer">
           <small> Coded by Bih Jovi</small>
