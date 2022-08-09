@@ -16,6 +16,7 @@ a {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+  max-width: 200px;
 }
 
 .App-header {

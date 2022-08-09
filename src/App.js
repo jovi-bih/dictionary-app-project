@@ -19,7 +19,21 @@ export default function App() {
           <Dictionary defaultKeyword="woman coding" />
         </main>
         <footer className="App-footer">
-          <small> Coded by Bih Jovi</small>
+          <small>
+            {" "}
+            Coded by Bih Jovi and is "
+            <a
+              href="https://github.com/jovi-bih/dictionary-app-project"
+              target="_blank"
+              rel="noreferrer noopener"
+            >
+              open-sourced on GitHub
+            </a>
+            " and "
+            <a href="#" target="_blank" rel="noreferrer noopener">
+              hosted on Netlify.
+            </a>
+          </small>
         </footer>
       </div>
     </div>
